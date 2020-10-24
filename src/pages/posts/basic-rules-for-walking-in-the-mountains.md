@@ -11,7 +11,7 @@ template: post
 ---
 ## This post Oringally Came on [Open Podcast Community](https://openpodcast.xyz)
 
- ### I wrote a podcasting book. In the book, I mention that a host should add an element to their content to attract more people. I tested the idea with my podcast by doing an episode about dog content.
+  I wrote a podcasting book. In the book, I mention that a host should add an element to their content to attract more people. I tested the idea with my podcast by doing an episode about dog content.
 
  ### ORIGIN
 In 2019, Stephanie Hurlburt posted on Twitter that her followers have an interest in dogs. Someone commented saying that this was useless data. I chimed in saying framing content in terms of dogs, and it would increase views and clicks. I had no idea if that is true, I experimented to find out.

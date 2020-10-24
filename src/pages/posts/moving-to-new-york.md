@@ -1,5 +1,5 @@
 ---
-title: 'Josh Manders '
+title: How Josh Manders Built NifyCO
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New

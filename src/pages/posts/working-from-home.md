@@ -6,7 +6,7 @@ excerpt: >-
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
+content_img_path: images/yellow avatar.png
 template: post
 ---
  Many of you should know the name Marc. He;s one of the most best makers out there! His work ethic, and his products are top notch, Yet how did it all begin? How did Wip get created and how did he become The **marc?**. Well, you might you have to get some popcorn and coffee to enjoy this story! It's begins from the start!

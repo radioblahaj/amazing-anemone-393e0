@@ -1,7 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_content: ''
+intro_content: '> @optivelabs.'
 intro_actions:
   - label: Learn More
     url: /about

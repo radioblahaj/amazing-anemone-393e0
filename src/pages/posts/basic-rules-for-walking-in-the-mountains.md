@@ -1,5 +1,5 @@
 ---
-title: Can Dog's Actually help you grow or build startups?
+title: How Marc Kholburrge Built WIP and Betalist
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress

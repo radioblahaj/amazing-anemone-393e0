@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about me and my work
+subtitle: 'We want to empower and eudcate '
 img_path: images/about.jpg
 template: page
 ---

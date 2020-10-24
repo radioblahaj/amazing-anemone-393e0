@@ -1,6 +1,6 @@
 ---
 title: The Story of Marc Köhlbrugge
-excerpt:The Story of Marc Köhlbrugge, is something that many people don;'t know. Most Interviews handle onbussiness, yet what about his exprinces? We got a chance!
+excerpt: The Story of Marc Köhlbrugge, is something that many people don;'t know. Most Interviews handle onbussiness, yet what about his exprinces? We got a chance!
 date: '2020-10-24'
 thumb_img_path: images/9.jpg
 content_img_path:images/photo-1561365786-678c773f8c96.jfif

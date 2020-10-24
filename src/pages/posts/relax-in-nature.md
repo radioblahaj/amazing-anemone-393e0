@@ -1,5 +1,5 @@
 ---
-title: My Way to Relax in Nature and Stress Less
+title: What's the deal with Podcasting and Startups
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.

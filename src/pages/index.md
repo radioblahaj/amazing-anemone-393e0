@@ -13,7 +13,7 @@ intro_actions:
   - label: Read Now
     url: /about
     style: primary
-  - label: ''
+  - label: Contact US
     url: /contact
     style: secondary
 has_more_link: true

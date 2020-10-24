@@ -11,7 +11,7 @@ intro_content: >-
   Siddqiq**.
 intro_actions:
   - label: Read Now
-    url: /about
+    url: /working-from-home
     style: primary
   - label: Contact US
     url: /contact

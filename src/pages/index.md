@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: false
+has_intro: true
 intro_content: >-
   ###### Maker's Rocket
 

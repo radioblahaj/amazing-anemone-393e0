@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: 'We want to empower and eudcate '
+subtitle: We want to empower and eudcate Makers + Tech Fans
 img_path: images/about.jpg
 template: page
 ---

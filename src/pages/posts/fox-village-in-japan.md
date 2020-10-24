@@ -1,5 +1,5 @@
 ---
-title: How Dog's can help you expand your reach?
+title: How Dog's can help you expand your reach or communtiy?
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.

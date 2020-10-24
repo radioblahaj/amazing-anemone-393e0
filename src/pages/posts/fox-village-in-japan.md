@@ -1,5 +1,5 @@
 ---
-title: 'The Story of Simple ANyltics, 7000+ MRR Business'
+title: How Podcasting can Help you Grow Your Brand?
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.

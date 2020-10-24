@@ -1,5 +1,5 @@
 ---
-title: Shipping Tasks Daily with Sergio Mattei
+title: How Josh Manders Built NifyCO
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
@@ -8,7 +8,7 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2018-01-23'
-thumb_img_path: images/5.jpg
+thumb_img_path: images/88nzMpgo_400x400.jpg
 content_img_path: images/5.jpg
 template: post
 ---

@@ -13,19 +13,19 @@ template: post
 
  ### I wrote a podcasting book. In the book, I mention that a host should add an element to their content to attract more people. I tested the idea with my podcast by doing an episode about dog content.
 
- ## ORIGIN
+ ### ORIGIN
 In 2019, Stephanie Hurlburt posted on Twitter that her followers have an interest in dogs. Someone commented saying that this was useless data. I chimed in saying framing content in terms of dogs, and it would increase views and clicks. I had no idea if that is true, I experimented to find out.
 
-## WHY IS THIS IMPORTANT?
+## #WHY IS THIS IMPORTANT?
 There is so much content that gets created. Makers need to stand out to get people to see their work. If adding a picture of a dog in a product demonstration video helps get more views, then why not add dogs?
  
- ## THE EXPERIMENT
+ ## # THE EXPERIMENT
 I host a podcast called Building and Indie Business. I discuss building a podcasting community. I decided to use my podcast to test my dog content theory.
- ## 
-## STEP 1:
+ 
+## # STEP 1:
 I recorded an episode that explained the first two paragraphs.
 
-##  STEP 2:
+## # STEP 2:
 I named the podcast episode a title that sounded similar to my other episodes but with dogs in the title. I wanted to see if people would be more interested if they thought I was talking about dogs. I went with Dogs and Web Development.
 
 ## STEP 3:

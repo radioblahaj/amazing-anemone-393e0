@@ -14,6 +14,6 @@ Growing Startups can be hard, and take a lot of money! Which is why, w've partne
 
 
 
-> Leave Me Alone
+>[ Leave Me Alone](https://leavemealone.app/?ref=makersrocket)
 
 Leave Me alone allows you to unsubrsibe from spam and emails you don't want  or need anymore with one click! It helps you fre up your persoanl or coprate email! Use ***Thefund10*** to get ***10% off your first credits purchase!***

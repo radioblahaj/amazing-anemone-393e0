@@ -3,7 +3,7 @@ title: Home
 has_intro: true
 intro_content: ''
 intro_actions:
-  - label: Learn More
+  - label: ''
     url: /about
     style: primary
   - label: ''

@@ -72,13 +72,14 @@ An inventor! I think that's pretty much what I am, so it worked out well :)
 I never had a normal job. I was fortunate enough to get the opportunity to start two
 startups right after graduation. Before that, during school, I did some freelance web
 development.
-How should someone market or get their service/SAAS or Product out there?
+## How should someone market or get their service/SAAS or Product out there?
 Twitter, Oragninc Ads?
 That really depends on who the product is for. That should be your number one
 marketing priority: get a very clear picture of who your customer is. Then just ask
 them where they hang out. How they discovered other products they use, and
 replicate that.
-What was your first business, what was it?
+
+ ## What was your first business, what was it?
 So as I mentioned before I actually started two startups right after graduation. The
 first one was a SaaS for creating press releases. I co-founded in partnership with
 another developer and The Next Web which is headquartered in the Netherlands.
@@ -90,22 +91,24 @@ time as we were in touch with Oprah's book club, and negiotating with Samsung to
 become the Galaxy Note's default e-reader app. But in the end it proved too
 difficult a market to innovate in. With publishers still scared of ebooks and Amazon
 having a near-monopoly we weren't able to execute as we hoped.
-What was the process of building WIP and BetaList? What were some of the
+
+ ## What was the process of building WIP and BetaList? What were some of the
 mistakes you tackled early on?
 The process for my successful products is always the same: start really small. Ship.
 Iterate based on user feedback.
 I still fall in the trap of trying to think too far ahead and guessing what people want.
 I then end up building features I'd like people to use, but nobody actually asked for
 or needs.
-Expensive.chat, is a social experiment you have. I’m sure people wonder! How
+
+ ## Expensive.chat, is a social experiment you have. I’m sure people wonder! How
 much have you made from it?
 That was a fun one! It got a lot of press coverage and definitely helped me get my
 name out there. But financially it didn't really do much. I think it was less than a
 $1,000 in revenue. Highscore Money ( https://highscore.money ) did a multiple of
 that with a technically much simpler product. That just goes to show that technical
 complexity and revenue are not related.
-What do you say to new makers + founders looking to grow business. A Peice
-of advice you didnt have, yet you can give?
+ ## What do you say to new makers + founders looking to grow business. A Peiceof advice you didnt have, yet you can give?
+ 
 Expect to fail. Most ideas don't work out. And that's fine. The lesson here is not to
 try and figure out the right idea before you start, but to start immediately and
 assume whatever you're working on won't work out. But if you keep doing that and
@@ -121,7 +124,8 @@ What is one of the biggest mistakes People tend to do?
 They start with a solution in mind. They come up with a product idea and spend
 many months perfecting it without getting any customer feedback. That's the
 biggest waste of time I've seen.
-How did you grow WIP, and get people to pay for it?
+
+ ## How did you grow WIP, and get people to pay for it?
 WIP was free in the beginning. I didn't plan on monetizing it or turning it into a
 business. At some point though members started asking me if they could pay me.
 They wanted to support me and ensure WIP would continue to be actively
@@ -137,7 +141,9 @@ Interestingly enough, many people tell me that's one of the things they like abo
 WIP. By having to pay they feel more invested to get the most out of it, plus they
 know the same is true for other members. That just wouldn't be same if we let in
 anyone for free.
-We ask every person, what is their most favorite artist or band?
+
+
+ ## We ask every person, what is their most favorite artist or band?
 That's a tough question. I'm leaning towards Eminem. I really respect his work
 ethic, creativity, and his courage to be himself.
 You follow 0 people on twitter, how do you consume twitter content? IS there
@@ -148,33 +154,39 @@ Twitter without really enjoying it. I now mostly interact with people through
 @mentions and DMs. I still occasionally use Twitter Lists to browser people's
 regular tweets, but most of my online interactions happen through Telegram these
 days.
-You have an incredible work ethic, how did it feel? When you Made WIp?
+
+
+## You have an incredible work ethic, how did it feel? When you Made WIp?
 Thank you. I just really enjoy what I'm doing so it doesn't feel like work.
 Building WIP is really exciting. It's probably the most rewarding product I've
 worked on, because I get to help the people I care about. Plus every day I get to
 talk to them.
-People building products, what’s urgent, what’s something that people
-shouldn’t do, and what’s something awful?
+People building products, what’s urgent
+
+ ## what’s something that peopleshouldn’t do, and what’s something awful?
 Urgent: ship what you're working on Don't: overthink things Awful: disrespect other
 people's work
 Makerlog is a really vibrant community, that a lot of people myself included are
-part of of. What do you think of the way Sergio is taking care of something like
-WIP.
-[not sure I understand the question]
-Every week, we feature a product! We want to ask you, what’s something that
+part of of. 
+
+
+ ## Every week, we feature a product! We want to ask you, what’s something that
 took your eye this week! It could be anything?
 The guy, Stefan Borsje, I co-founded my first startup PR.co with is building
 something new called Glass: https://glass.photo
 It feels a lot like Instagram, but with a focus on photographers. It seems very
 ambitious to me, but I think they have a real shot at providing a nicer alternative to
 Instagram.
-Can you give us quote?
+
+## Can you give us quote?
 I really like this quote by Steve Jobs:
 
 "Everything around you that you call life was made up by people that were no
 smarter than you. And you can change it, you can influence it... Once you learn that,
 you'll never be the same again"
-What Advice do you give to people looking to monetize and make money from
+
+
+ ## What Advice do you give to people looking to monetize and make money from
 their communities?
 If your goal is to build a profitable business, don't start a community haha. There
 are much easier ways to make a buck.
@@ -185,5 +197,7 @@ specifics. Try figuring out features your most active members want and see if yo
 can charge a premium fee for it. I'd also discover if there are any products or
 services they are already paying for and see if you can partner with them, or sell a
 (basic) alternative yourself.
+
+
 Thanks for joining us Marc, We hope you enjoyed the interview!
-I did. Thanks for having me!
+As Promised, Marc's Interview gave an aweasome insight to his life! We enjoyed it and we hoped you did too! See you soon!

@@ -10,6 +10,6 @@ intro_actions:
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Read more
+more_link_text: Read Now!
 template: home
 ---

@@ -19,4 +19,5 @@ intro_actions:
 has_more_link: true
 more_link_text: Read Now!
 template: home
+excerpt: Pubilcation for Makers
 ---

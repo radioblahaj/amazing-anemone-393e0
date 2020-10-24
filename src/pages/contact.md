@@ -29,8 +29,8 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      I undertsand, That My Email, And Name are being used so I can be Noifed of
+      any updates or contacts
 submit_label: Send Message
 template: contact
 ---

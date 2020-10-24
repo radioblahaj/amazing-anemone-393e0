@@ -6,7 +6,7 @@ excerpt: >-
   making it the most sparsely populated country in Europe.
 date: '2018-01-09'
 thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+content_img_path: images/2770dfd4-cc81-49b0-8fa3-843782f136eb.jpg
 template: post
 ---
 

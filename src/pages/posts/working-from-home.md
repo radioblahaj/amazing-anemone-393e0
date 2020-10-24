@@ -9,11 +9,17 @@ thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 template: post
 ---
-Tell us a bit about yourself, and what you do?
+ Many of you should know the name Marc. He;s one of the most best makers out there! His work ethic, and his products are top notch, Yet how did it all begin? How did Wip get created and how did he become The **marc?**. Well, you might you have to get some popcorn and coffee to enjoy this story! It's begins from the start!
+
+## Tell us a bit about yourself, and what you do?
+
+
 I'm Marc Köhlbrugge, and maker of a variety of products most notably WIP (
 https://wip.co ), BetaList ( https://betalist.com ), and Startup Jobs (
 https://startup.jobs )
-How did you get introduced into the tech world?
+
+## How did you get introduced into the tech world?
+
 I've been fascinated by computers ever since I was kid. I think I first start using a
 PC when I was around 9 years old. It ran both MS-DOS and Windows 3.11. I was a
 very curious kid so I explored every little part of the Windows operating system and
@@ -26,7 +32,8 @@ game my name and score would show up in the highscore list. That was a very
 exciting feeling.
 This later inspired https://highscore.money which is a highscore leaderboard where
 you pay to get included. Whatever you choose pay, that's your score.
-Where did the idea for WIP.co come from?
+
+ ## Where did the idea for WIP.co come from?
 I've been working on different variations on WIP for many years. Many years ago
 (before Slack was a thing) I started a paid chat group for founders, but I couldn't
 get enough people to participate. A while later me and a group of friends used a
@@ -46,17 +53,22 @@ BetaList things really took off. I didn't want it to become yet another distract
 chatgroup, so I took all my lessons and ideas from the past years and quickly
 developed a chatbot to share what people were working on, added a website with
 profiles, etc. That's how WIP was born.
-You’re really open and out there in the community Knowing people like levelsio,
-fajar siddiq. What do you say to founders looking to grow their connections?
+
+
+ ## You’re really open and out there in the community Knowing people like levelsio & fajar siddiq. What do you say to founders looking to grow their connections?
 I don't really look at it this way. I just try to make cool stuff, share it publicly, and
 help others where I can. If you do enough of that you'll eventually you start meeting
 people who share similar interests and values. That's how you make genuine
 connections.
 I don't really believe in networking or intentionally working towards meeting certain
 people. That might work for some, but to me that just seems like a lot of work.
-What did you want to be as a child?
+
+
+## What did you want to be as a child?
 An inventor! I think that's pretty much what I am, so it worked out well :)
-What was your first job, and what was it like?
+
+
+ ## What was your first job, and what was it like?
 I never had a normal job. I was fortunate enough to get the opportunity to start two
 startups right after graduation. Before that, during school, I did some freelance web
 development.

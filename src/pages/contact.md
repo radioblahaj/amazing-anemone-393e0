@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Sumbit a Story!
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /contact-success

@@ -62,7 +62,7 @@
                 "icon_class": "fa-linkedin",
                 "new_window": true
             },
-  {
+            {
                 "label": "LinkedIn",
                 "url": "https://mailo:arav.1tb@gmail.com",
                 "style": "icon",
@@ -72,7 +72,7 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "Subscribe to our Newsletter",
-        "subscribe_content": "Join our Newsletter full of Interviews, and Case Studies! DDelivered Every Week!",
+        "subscribe_content": "Join our Newsletter full of Interviews, and Case Studies! Delivered Every Week!",
         "subscribe_action": "/subscribe-success"
     },
     "title": "Maker's Rocket"

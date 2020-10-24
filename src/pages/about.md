@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: The Community
 subtitle: We want to empower and eudcate Makers + Tech Fans
 img_path: images/about.jpg
 template: page

@@ -1,5 +1,5 @@
 ---
-title: Sumbit a Story!
+title: Submit a Story!
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /contact-success

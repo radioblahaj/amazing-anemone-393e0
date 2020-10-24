@@ -34,5 +34,4 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-
-Fill the form below to get in touch with me.
+Do you have a story you want to share? Sponsership Inquiry? or Just Want to chat or get advice on a Product of yours by our expert team? Want us to talk about your product? Well Fill out the form!

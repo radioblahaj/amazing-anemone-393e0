@@ -2,11 +2,13 @@
  * Site Header
  */
 .site-header {
-  background: #f00;
-  border-top: 5px solid _palette(accent);
-  border-bottom: 1px solid _palette(border);
-  padding-bottom: 1.33333em;
-  padding-top: 1.33333em;
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 0px;
+top: 126.91px;
+
+background: #2C343C;
 }
 
 .site-header-inside {

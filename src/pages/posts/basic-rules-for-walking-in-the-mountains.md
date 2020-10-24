@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2019-04-09'
 thumb_img_path: images/9.jpg
-content_img_path: images/1.jpg
+content_img_path: images/photo-1561365786-678c773f8c96.jfif
 template: post
 ---
 ## This post Oringally Came on [Open Podcast Community](https://openpodcast.xyz)

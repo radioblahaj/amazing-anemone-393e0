@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: 'The Story of Simple ANyltics, 7000+ MRR Business'
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.

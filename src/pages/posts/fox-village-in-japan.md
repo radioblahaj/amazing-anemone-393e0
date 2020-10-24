@@ -1,5 +1,5 @@
 ---
-title: How Podcasting can Help you Grow Your Brand?
+title: How Dog's can help you expand your reach?
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.

@@ -14,7 +14,7 @@ intro_actions:
     url: /working-from-home
     style: primary
   - label: Contact US
-    url: ''
+    url: 'https://twitter,com/makersrocket'
     style: secondary
 has_more_link: true
 more_link_text: Read Now!

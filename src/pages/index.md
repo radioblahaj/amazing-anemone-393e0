@@ -10,7 +10,7 @@ intro_content: >-
   rising makers out there such as **josh manders, Marc Kohlburgee, and Fajar
   Siddqiq**.
 intro_actions:
-  - label: Random Post
+  - label: Read Now
     url: /about
     style: primary
   - label: ''

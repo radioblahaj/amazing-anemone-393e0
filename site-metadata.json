@@ -1,9 +1,9 @@
 {
-    "description": "Medium inspired blogging theme for Stackbit",
+    "description": "Helping Makers Learn, Educate and Kickstart!",
     "layout_style": "grid",
     "palette": "blue",
     "header": {
-        "title": "Ampersand",
+        "title": "Makers Rocket",
         "logo_img": "images/Group 4.svg",
         "has_nav": true,
         "nav_links": [
@@ -50,7 +50,7 @@
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/makersrocket",
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
@@ -61,6 +61,13 @@
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
+            },
+  {
+                "label": "LinkedIn",
+                "url": "https://mailo:arav.1tb@gmail.com",
+                "style": "icon",
+                "icon_class": "fa-email",
+                "new_window": true
             }
         ],
         "has_subscribe": true,
@@ -68,5 +75,5 @@
         "subscribe_content": "Join our Newsletter full of Interviews, and Case Studies! DDelivered Every Week!",
         "subscribe_action": "/subscribe-success"
     },
-    "title": "Stackbit Ampersand Theme"
+    "title": "Maker's Rocket"
 }

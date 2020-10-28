@@ -8,7 +8,7 @@ thumb_img_path: images/66bed58b-29e9-4b7b-a0d7-6a883d300557.jpg
 content_img_path: images/33606b30-7121-4bc6-8590-df36bbce469f.jpg
 template: post
 ---
-Many of you should know the name Marc. He;s one of the most best makers out there! His work ethic, and his products are top notch, Yet how did it all begin? How did WIP get created and how did he become The **marc?**. Well, you might you have to get some popcorn and coffee to enjoy this story! It's begins from the start!
+Many of you should know the name Marc. Marc founded WIP and BetaList. He's also really popular and perhaps one of the greatest developers of all time. Yet how did he get there, how did it all began? Well, we've finnaly been able to know. Marc joins us to talk about his story like never before!
 
 ## Tell us a bit about yourself, and what you do?
 

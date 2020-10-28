@@ -155,7 +155,7 @@ regular tweets, but most of my online interactions happen through Telegram these
 days.
 
 
-## You have an incredible work ethic, how did it feel? When you Made WIp?
+## You have an incredible work ethic, how did it feel? When you Made WIP?
 Thank you. I just really enjoy what I'm doing so it doesn't feel like work.
 Building WIP is really exciting. It's probably the most rewarding product I've
 worked on, because I get to help the people I care about. Plus every day I get to

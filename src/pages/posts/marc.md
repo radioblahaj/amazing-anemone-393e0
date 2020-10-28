@@ -5,7 +5,7 @@ excerpt: >-
   Interviews handle onbussiness, yet what about his exprinces? We got a chance!
 date: '2020-10-24'
 thumb_img_path: images/66bed58b-29e9-4b7b-a0d7-6a883d300557.jpg
-content_img_path: images/magnificent-coriander.jpg
+content_img_path: images/33606b30-7121-4bc6-8590-df36bbce469f.jpg
 template: post
 ---
 Many of you should know the name Marc. He;s one of the most best makers out there! His work ethic, and his products are top notch, Yet how did it all begin? How did Wip get created and how did he become The **marc?**. Well, you might you have to get some popcorn and coffee to enjoy this story! It's begins from the start!

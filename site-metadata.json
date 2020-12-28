@@ -71,7 +71,7 @@
             }
         ],
         "has_subscribe": true,
-        "subscribe_title": "Subscribe to our Newsletter",
+        "subscribe_title": "Join the Rockets",
         "subscribe_content": "Join our Newsletter full of Interviews, and Case Studies! Delivered Every Week!",
         "subscribe_action": "/subscribe-success"
     },
